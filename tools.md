@@ -1,7 +1,5 @@
 开发工具idea:
 ==============
-**官网:** https://www.jetbrains.com/
-
 **下载地址:**
 https://www.jetbrains.com/idea/
 
