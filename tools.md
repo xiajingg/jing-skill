@@ -46,8 +46,8 @@ https://github.com/xiajingg/jing-skill/blob/master/Mysql.docx
 
 
 
-git
-====
+2018年10月22日git学习
+=====================
 **下载地址:**
 https://www.git-scm.com/download/
 
@@ -57,4 +57,3 @@ https://www.git-scm.com/download/
 **文档地址:**
 https://github.com/xiajingg/jing-skill/blob/master/git.docx
 
-2018-10-22
