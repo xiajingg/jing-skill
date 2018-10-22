@@ -51,8 +51,8 @@ git
 **下载地址:**
 https://www.git-scm.com/download/
 
-**git应用:**
+**文档内容:**
+在开发工具idea中如何配置git,以及如何通过git下载项目
 
-文档内容:在开发工具idea中如何配置git,以及如何通过git上传项目
-
-文档地址:
+**文档地址:**
+https://github.com/xiajingg/jing-skill/blob/master/git.docx
