@@ -33,7 +33,13 @@ https://blog.csdn.net/qq_21205435/article/details/78902052
 https://jingyan.baidu.com/album/c33e3f48d1c30fea15cbb5b4.html?picindex=1
 
 
-2018年10月21日
+2018年10月21日mysql学习
 ======================
-**mysql学习**
+**文档前提:**
+安装完mysql和navicat.
+
+**文档内容:**
+用navicat工具使用mysql数据库
+
+**文档地址:**
 https://github.com/xiajingg/jing-skill/blob/master/Mysql.docx
