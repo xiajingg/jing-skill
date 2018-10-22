@@ -45,3 +45,14 @@ https://jingyan.baidu.com/album/c33e3f48d1c30fea15cbb5b4.html?picindex=1
 https://github.com/xiajingg/jing-skill/blob/master/Mysql.docx
 
 文档于10月22日更新
+
+git
+====
+**下载地址:**
+https://www.git-scm.com/download/
+
+**git应用:**
+
+文档内容:在开发工具idea中如何配置git,以及如何通过git上传项目
+
+文档地址:
