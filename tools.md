@@ -42,7 +42,7 @@ https://jingyan.baidu.com/album/c33e3f48d1c30fea15cbb5b4.html?picindex=1
 用navicat工具使用mysql数据库
 
 **文档地址:**
-https://github.com/xiajingg/jing-skill/blob/master/Mysql.docx
+https://github.com/xiajingg/jing-skill/blob/file/Mysql.docx
 
 
 
@@ -55,9 +55,18 @@ https://www.git-scm.com/download/
 在开发工具idea中如何配置git,以及如何通过git下载项目
 
 **文档地址:**
-https://github.com/xiajingg/jing-skill/blob/master/git.docx
+https://github.com/xiajingg/jing-skill/blob/file/git.docx
 
 **sql语句学习文档:**
-https://github.com/xiajingg/jing-skill/blob/master/Mysql.docx
+https://github.com/xiajingg/jing-skill/blob/file/Mysql.docx
 
 内有select，update语句更新
+
+2018-10-23 new project
+=======================
+
+**文档内容:**
+在idea中如何新建项目
+
+**文档地址:**
+https://github.com/xiajingg/jing-skill/blob/file/new project.pptx
