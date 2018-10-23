@@ -69,4 +69,4 @@ https://github.com/xiajingg/jing-skill/blob/file/Mysql.docx
 在idea中如何新建项目
 
 **文档地址:**
-https://github.com/xiajingg/jing-skill/blob/file/new project.pptx
+https://github.com/xiajingg/jing-skill/blob/master/file/new%20project.pptx
