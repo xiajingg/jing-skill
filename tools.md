@@ -81,4 +81,4 @@ https://github.com/xiajingg/jing-skill/blob/master/file/new%20project.pptx
 https://github.com/xiajingg/jing-skill/blob/master/file/ProjectDemo.pptx
 
 **项目下载地址:**
-https://github.com/xiajingg/basic.git
+https://github.com/xiajingg/basic.git 下载完后先从PO开始看
