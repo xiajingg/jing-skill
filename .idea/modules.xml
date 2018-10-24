@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/jing-skill.iml" filepath="$PROJECT_DIR$/.idea/jing-skill.iml" />
       <module fileurl="file://$PROJECT_DIR$/jing-skill.iml" filepath="$PROJECT_DIR$/jing-skill.iml" />
     </modules>
   </component>
